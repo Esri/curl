@@ -10,3 +10,6 @@ been done since the previous release.
 
 See the online [changelog](https://curl.se/changes.html) for the edited and
 human readable version of what has changed in different curl releases.
+
+
+Minor update to documentation.
